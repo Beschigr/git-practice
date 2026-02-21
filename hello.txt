@@ -1,2 +1,4 @@
 Hello Git! 
 Learning Git is fun! This is a new feature! 
+This is unfinished work...
+Hello Git! — from conflict-test branch
