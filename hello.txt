@@ -1,3 +1,4 @@
+CONFLICT-TEST BRANCH VERSION
 Hello Git! 
 Learning Git is fun! This is a new feature! 
 This is unfinished work...
